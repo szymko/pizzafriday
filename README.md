@@ -1,5 +1,7 @@
 # Pizza friday
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bonanzakrak/pizzafriday.svg)](https://greenkeeper.io/)
+
 Allow to select food from restaurants on pizza day.
 
 ### Requirements
